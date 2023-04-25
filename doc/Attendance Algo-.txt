@@ -1,0 +1,11 @@
+Attendance Algo:-
+
+Teacher Admin-panel:-
+        -> query insert -> a/p -> Values ->
+                         1- Student_Values -> rollno, username(unique), Name, course -> Course details. (Database 1)
+                         2- Teacher(assigned to a Course) - > Assigned Teacher of a course will Take. (Database 2 )
+
+
+Student Attendance :- 1. Updation Created with TAke Attendance Butoon
+                      2. Search In Database that Similar Database Is Exist With Same Date Or Not.
+                                - If Not Then Insert The Query. In the Database.
